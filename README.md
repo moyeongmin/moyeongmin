@@ -1,5 +1,3 @@
-<div style="border:1px solid #ccc; border-radius:6px; padding:16px; background-color:#f9f9f9">
-  
 # 모영민 | Android Developer
 
 > 안녕하세요! 협업을 중시하고 사용자 중심의 앱 개발을 목표로 하는 안드로이드 개발자 **모영민**입니다. 
@@ -24,9 +22,9 @@
 
 | 프로젝트명 | 설명 |
 |-----------|------|
-| 🚀 [**We:Quiz**](https://github.com/moyeongmin/WeQuiz) | AI 기반 스터디 퀴즈 서비스<br>Jetpack Compose UI + Clova Studio API 연동<br>부스트캠프 웹·모바일 9기 팀 프로젝트 |
-| 🏛️ [**지금 국회는**](https://github.com/moyeongmin/now-natgov) | 국회 데이터 기반 UX 개선 서비스<br>Firebase 및 Retrofit 연동<br>국회 데이터 활용 경진대회 장려상 |
-| 🗺️ [**B-Gosu**](https://github.com/moyeongmin/b-gosu) | 사용자 맞춤 여행 서비스<br>Unity + Android Studio 3D 캐릭터 구현<br>2023 Kakao 관광데이터 공모전 장려상 |
+| 🚀 [**We:Quiz**](https://github.com/boostcampwm-2024/and02_weQuiz) | AI 기반 스터디 퀴즈 서비스<br>Jetpack Compose UI + Clova Studio API 연동<br>부스트캠프 웹·모바일 9기 팀 프로젝트 |
+| 🏛️ [**지금 국회는**](https://github.com/PNU-ShakeIT/ShakeIT-Frontend) | 국회 데이터 기반 UX 개선 서비스<br>Firebase 및 Retrofit 연동<br>국회 데이터 활용 경진대회 장려상 |
+| 🗺️ [**B-Gosu**](https://github.com/moyeongmin/B-Gosu) | 사용자 맞춤 여행 서비스<br>Unity + Android Studio 3D 캐릭터 구현<br>2023 Kakao 관광데이터 공모전 장려상 |
 
 ---
 
@@ -38,23 +36,6 @@
 
 ---
 
-</div>
-
-## 🎓 Education
-- 부산대학교 IT응용공학과 (2019.03 – 2025.02)
-
----
-
-## 🏆 Awards
-- 2022 국회 데이터 활용 경진대회 장려상
-- 2023 Kakao 관광데이터 공모전 장려상
-
----
-
-## 🗣️ Activities
-- 네이버 부스트캠프 웹·모바일 9기 수료 (2024)
-
----
 
 ## ✨ Additional Links
 - [GitHub](https://github.com/moyeongmin)

@@ -32,7 +32,7 @@
 
 | 프로젝트명 | 설명 |
 |-----------|------|
-| 🍚 [**뿌대식**](https://github.com/moyeongmin/bbudaesik) | 부산대 학식/기숙사 식단 앱<br>Notion API + 앱 위젯 + 클린 아키텍처 설계<br>Google Play 내부 테스트 운영 중 |
+| 🍚 [**뿌대식**](https://github.com/moyeongmin/pudaesik) | 부산대 학식/기숙사 식단 앱<br>Notion API + 앱 위젯 + 클린 아키텍처 설계<br>Google Play 내부 테스트 운영 중 |
 
 ---
 
